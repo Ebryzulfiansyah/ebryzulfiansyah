@@ -1,2 +1,0 @@
-# ebryzulfiansyah
-latihan pemograman
